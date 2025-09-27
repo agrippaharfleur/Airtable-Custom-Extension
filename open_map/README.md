@@ -1,7 +1,7 @@
 # 📍 Airtable Coordinates Map Extension
 
 An Airtable Interface Extension to display your geographic data on an interactive map with customizable markers.
-<img width="400" height="255" alt="Airtable Open Map Light" src="https://github.com/user-attachments/assets/9142ebb1-8220-49a9-8ed6-90b70ef25bfd" /> <img width="427" height="257" alt="Airtable Open Map Dark" src="https://github.com/user-attachments/assets/b71cd759-906b-490a-9b41-5383b4550dc5" /> <img width="294" height="272" alt="Airtable Open Map Custom Properties" src="https://github.com/user-attachments/assets/b1eca1bd-ced1-4ecd-bf08-4df7d72bb758" />
+<img width="400" height="255" alt="Airtable Open Map Light" src="https://github.com/user-attachments/assets/9142ebb1-8220-49a9-8ed6-90b70ef25bfd" /> <img width="427" height="257" alt="Airtable Open Map Dark" src="https://github.com/user-attachments/assets/b71cd759-906b-490a-9b41-5383b4550dc5" /> <img width="196" height="181" alt="Airtable Open Map Custom Properties" src="https://github.com/user-attachments/assets/b1eca1bd-ced1-4ecd-bf08-4df7d72bb758" />
 
 
 ## ✨ Features
